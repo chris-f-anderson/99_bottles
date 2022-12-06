@@ -36,6 +36,6 @@ try:
     time.sleep(PAUSE)
     print('Take it down, pass it around,')
     time.sleep(PAUSE)
-    print('No more bottles of beer on the wall!')
+    print('No more bottles of beer on the wall!!!')
 except KeyboardInterrupt:
     sys.exit()
